@@ -24,7 +24,7 @@
         </script>
     </head>
     <body>
-        <h1>Página Princial (INDEX)</h1><hr>
+        <h1>Página Princial Prueba(INDEX)</h1><hr>
         <br>
         <form action="insert.jsp">
             <label for="GET-name">ISBN:</label>
